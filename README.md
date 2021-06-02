@@ -1,6 +1,6 @@
 # ML_practice
 
-<b>A. Practice based on "Introduction to ML with python" book</b>
+<b>A. Practice based on the book "Introduction to ML with python"</b>
 <br>
 1. Supervised learning:<br>
   -- knn, SVM, linear regression, logistic regression, decision trees and random forests<br>
