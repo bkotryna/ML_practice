@@ -14,4 +14,4 @@
 
 <b>B. Titanic survival prediction (reached 0.81 prediction accuracy)</b>
 
-<b>C. Kaggle house price prediction (reached R^2 of 0.923, RMSPE of 14%)<\b>
+<b>C. Kaggle house price prediction (reached R^2 of 0.923, RMSPE of 14%)</b>
