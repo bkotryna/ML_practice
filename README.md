@@ -10,7 +10,7 @@
   -- PCA, NMF<br>
 4. NLP:<br>
   -- stemming, tokenisation, tf-idf<br>
-  -- normalisation, feature engineering, grid search and cross-validation, evaluation metrics
+5. Normalisation, feature engineering, grid search and cross-validation, evaluation metrics
 
 <b>B. Titanic survival prediction (reached 0.81 prediction accuracy)</b>
 
