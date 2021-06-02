@@ -1,6 +1,6 @@
 # ML_practice
 
-<b>Practice based on "Introduction to ML with python" book</b>
+<b>A. Practice based on "Introduction to ML with python" book</b>
 <br>
 1. Supervised learning:<br>
   -- knn, SVM, linear regression, logistic regression, decision trees and random forests<br>
@@ -12,6 +12,6 @@
   -- stemming, tokenisation, tf-idf<br>
   -- normalisation, feature engineering, grid search and cross-validation, evaluation metrics
 
-<b>Titanic survival prediction (reached 0.81 prediction accuracy)</b>
+<b>B. Titanic survival prediction (reached 0.81 prediction accuracy)</b>
 
-<b>Kaggle house price prediction (reached R^2 of 0.923, RMSPE of 14%)<\b>
+<b>C. Kaggle house price prediction (reached R^2 of 0.923, RMSPE of 14%)<\b>
