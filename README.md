@@ -2,7 +2,7 @@
 
 <b>A. Practice based on the book "Introduction to ML with python"</b>
 <br>
-1. Supervised learning:<br>
+1. Supervised learning for regression and classification:<br>
   -- knn, SVM, linear regression, logistic regression, decision trees and random forests<br>
 2. Unsupervised learning:<br>
   -- k-means, agglomerative clustering<br>
