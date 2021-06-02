@@ -8,12 +8,10 @@
   -- k-means, agglomerative clustering<br>
 3. Dimentionality reduction:<br>
   -- PCA, NMF<br>
-4. NNLP:<br>
+4. NLP:<br>
   -- stemming, tokenisation, tf-idf<br>
   -- normalisation, feature engineering, grid search and cross-validation, evaluation metrics
-<br><br>
 
 <b>Titanic survival prediction (reached 0.81 prediction accuracy)</b>
-<br><br>
 
 <b>Kaggle house price prediction (reached R^2 of 0.923, RMSPE of 14%)<\b>
