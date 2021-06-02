@@ -1,7 +1,14 @@
 # ML_practice
-1. ML practice<br>
--- work on "Introduction to ML with python" book<br>
--- Titanic survival prediction (reached 0.81 prediction accuracy)<br>
--- Kaggle house price prediction (reached R^2 of 0.923, RMSPE of 14% with a gradient-boosted decision tree)
 
-2. Statistics practice
+1. Practice based on "Introduction to ML with python" book<br>
+  -- supervised learning:
+     knn, SVM, linear regression, logistic regression, decision trees and random forests
+  -- unsupervised learning:
+     k-means, agglomerative clustering
+  -- dimentionality reduction:
+     PCA, NMF
+  -- NLP:
+     stemming, tokenisation, tf-idf
+  -- normalisation, feature engineering, grid search and cross-validation, evaluation metrics
+3. Titanic survival prediction (reached 0.81 prediction accuracy)<br>
+4. Kaggle house price prediction (reached R^2 of 0.923, RMSPE of 14%)
