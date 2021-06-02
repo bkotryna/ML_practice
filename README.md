@@ -6,7 +6,7 @@
   -- knn, SVM, linear regression, logistic regression, decision trees and random forests<br>
 2. Unsupervised learning:<br>
   -- k-means, agglomerative clustering<br>
-3. Dimentionality reduction:<br>
+3. Dimensionality reduction:<br>
   -- PCA, NMF<br>
 4. NLP:<br>
   -- stemming, tokenisation, tf-idf<br>
